@@ -1,0 +1,27 @@
+Even though we are dealing with one html file, we are still expecting to be able to navigate through different views, and see something different in the URL bar.  We should still be able to push the forward and back button in our browser to navigate like we always do.  SO how do we do it? We
+
+BROWSER ROUTER ETC
+
+So what happens if we try to visit a non-existent route?
+
+ErrorPage component.
+
+**********************
+
+Links: renders an anchor tag in html
+
+We trigger the rendering of a page/component we specified in the route.
+****************************************************************
+
+Navigation Links:  can tell us which link is active.  demonstrate with css.
+
+Navigate: Demonstrate redirect to login page (DON'T SHOW CONSOLE!!)
+
+**************************
+
+So this is great but how do we pass props when we link about?
+
+
+
+
+
